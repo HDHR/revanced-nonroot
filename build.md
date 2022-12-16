@@ -1,12 +1,17 @@
 CLI: revanced-cli-2.17.0-all.jar  
-Integrations: app-release-unsigned-v0.80.0.apk  
-Patches: revanced-patches-2.136.0.jar  
+Integrations: app-release-unsigned-v0.84.0.apk  
+Patches: revanced-patches-2.144.0.jar  
 
-### [2.136.0](https://github.com/revanced/revanced-patches/compare/v2.135.0...v2.136.0) (2022-12-02)
-### Bug Fixes
-* syntax error in compatiblity annotation ([#1181](https://github.com/revanced/revanced-patches/issues/1181)) ([0830c7e](https://github.com/revanced/revanced-patches/commit/0830c7ed1064757cf6354b426549275ece55408e))
+### [2.144.0](https://github.com/revanced/revanced-patches/compare/v2.143.0...v2.144.0) (2022-12-15)
+
+
 ### Features
-* **youtube:** drop support for compatibility of old versions ([7413aad](https://github.com/revanced/revanced-patches/commit/7413aad6d215f24a66ba9a33917c73dbdb0b7bc3))
+
+* **citra:** add compatibility for canary package ([#1256](https://github.com/revanced/revanced-patches/issues/1256)) ([42ec021](https://github.com/revanced/revanced-patches/commit/42ec0218d829ea15759f83562d24588ce97cb646))
+* link packages to Google PlayStore ([#1272](https://github.com/revanced/revanced-patches/issues/1272)) ([97892e0](https://github.com/revanced/revanced-patches/commit/97892e01044c74916375aeebcc094d3304e14f4e))
+
+
+
 
   
 **App Versions:**  
